@@ -1,6 +1,6 @@
 # README: Titanic Survival Prediction
 
-## Author: Smit prajapati
+## Author: Smit Prajapati
 
 ## Create: December 2024
 
